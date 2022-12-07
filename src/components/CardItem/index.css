@@ -1,0 +1,59 @@
+.card-1 {
+  height: 30vh;
+  width: 80%;
+  border: 5px solid #ff4f64;
+  border-radius: 8px;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  padding: 30px;
+  background-color: white;
+  margin: 30px;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+  height: 30vh;
+  width: 90%;
+  border-radius: 8px;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  padding: 30px;
+  background-color: white;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  height: 30vh;
+  width: 90%;
+  border-radius: 8px;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  padding: 30px;
+  background-color: white;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+  height: 30vh;
+  width: 90%;
+  border-radius: 8px;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  padding: 30px;
+  background-color: white;
+}
+
+.tech-type {
+  font-size: 20px;
+}
+.description {
+  font-size: 12px;
+}
+.logo {
+  display: flex;
+  justify-content: flex-end;
+}
